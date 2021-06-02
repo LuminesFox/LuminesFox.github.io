@@ -1,1 +1,2 @@
-# configs
+# Кофигурации
+- [NGINX](/nginx.md)
