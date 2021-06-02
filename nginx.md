@@ -118,7 +118,11 @@ http {
  # }
  #}
 }
-Содержимое моего ĸонфига
+```
+
+## Содержимое моего ĸонфига
+
+```
 map $http_upgrade $connection_upgrade {
  default upgrade;
  '' close;
